@@ -1,7 +1,0 @@
-{
-  "buildCommand": "pip install -r requirements.txt",
-  "devCommand": "python mlb_mobile_app.py",
-  "runtime": "python3.11"
-    }
-  }
-}
